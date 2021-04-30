@@ -2,6 +2,7 @@
   "name": "vue-react-module-federation",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "start": "concurrently \"npm run test --workspaces\""
